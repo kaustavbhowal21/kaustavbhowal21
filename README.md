@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on C++ implementation of an ALNS metaheuristic for the Capacitated Vehicle Routing Problem with Pickup, Delivery, and Time Windows (CVRP-PDTW).
+- 🔭 I’m currently learning Machine Learning and Generative AI.
 - 🌱 I’m currently learning Dynamic Programming for Competitive aspect.
 - 👯 I’m looking to collaborate on OpenStreetMap opensource.
 - 💬 Ask me about Football.
